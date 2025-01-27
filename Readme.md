@@ -28,7 +28,7 @@
 - Build Twitter interaction handler:  
   - Direct message parsing  
   - Tweet/reply monitoring via `@elizaos/plugin-twitter`  
-- Implement basic NLP using GPT-4/Claude (Eliza OS integration).  
+- Implement basic NLP using Deepseek/Claude (Eliza OS integration).  
 - Develop rule engine for:  
   - Sentiment analysis thresholds  
   - Engagement tracking (likes, retweets, polls).  
